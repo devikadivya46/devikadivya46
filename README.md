@@ -1,5 +1,5 @@
 # 💫 About Me:
----<br>Hi, I’m Devika 👩‍💻<br>🎓 CSE student (2nd year)<br>💡 Interested in problem-solving, algorithms, and design<br>🖌 Love combining art + technology + business in projects<br>🌱 Currently learning web development, AI/ML, and IoT<br>🤝 Passionate about helping others and collaborating on open-source<br>---
+---<br>Hi, I’m Devika 👩‍💻<br>🎓 CSE student (2nd year)<br>💡 Interested in problem-solving, algorithms, and design<br>🖌 Love combining art + technology + business in projects<br>🌱 Currently learning web development, AI/ML, and UI/UX designing<br>🤝 Passionate about helping others and collaborating on open-source<br>---
 
 
 ## 🌐 Socials:
